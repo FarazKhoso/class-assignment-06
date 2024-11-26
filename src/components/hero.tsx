@@ -43,37 +43,37 @@ const Hero = () => {
         </p>
         <div className="flex justify-start items-center py-4 gap-4 overflow-clip">
           <Image
-            src={"/Airbnb logo1.svg"}
+            src={"/Airbnb Logo1.svg"}
             alt="marquee-logo-1"
             width={108}
             height={32}
           />
           <Image
-            src={"/Airbnb logo2.svg"}
+            src={"/Airbnb Logo2.svg"}
             alt="marquee-logo-1"
             width={108}
             height={32}
           />
           <Image
-            src={"/Airbnb logo3.svg"}
+            src={"/Airbnb Logo3.svg"}
             alt="marquee-logo-1"
             width={108}
             height={32}
           />
           <Image
-            src={"/Airbnb logo4.svg"}
+            src={"/Airbnb Logo4.svg"}
             alt="marquee-logo-1"
             width={108}
             height={32}
           />
           <Image
-            src={"/Airbnb logo5.svg"}
+            src={"/Airbnb Logo5.svg"}
             alt="marquee-logo-1"
             width={108}
             height={32}
           />
           <Image
-            src={"/Airbnb logo6.svg"}
+            src={"/Airbnb Logo6.svg"}
             alt="marquee-logo-1"
             width={108}
             height={32}
